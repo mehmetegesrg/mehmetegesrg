@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Mehmet Ege Sarıgöl</h1>
+<h1 align="center">Merhaba 👋, ben Ege</h1>
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mehmetegesrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetegesrg" height="30" width="40" /></a>
