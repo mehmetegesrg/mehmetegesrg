@@ -1,15 +1,36 @@
-<h1 align="center">Merhaba 👋, ben Ege</h1>
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehmetegesrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetegesrg" height="30" width="40" /></a>
+<h1 align="center">Ege</h1>
+<h3 align="center">Junior Developer | Python & AI Enthusiast</h3>
+
+<p align="center">
+  I am a developer actively working on software and artificial intelligence. I’m focused on building projects with Python and experimenting with hardware-based systems using Raspberry Pi.
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/tr-TR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetegesrg&show_icons=true&locale=tr&layout=compact" alt="mehmetegesrg" /></p>
+## 🧰 Technologies I Use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,arduino,raspberrypi,vscode" />
+</p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetegesrg&show_icons=true&locale=tr" alt="mehmetegesrg" /></p>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetegesrg&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetegesrg&layout=compact&theme=default" height="160" />
+</p>
+
+---
+
+## 📫 Contact
+
+| Platform   | Link                          |
+|------------|-------------------------------|
+| 📧 Email   | mehmetegesarigol@gmail.com         |
+| 💼 LinkedIn| [linkedin.com/in/mehmetegesrg](https://linkedin.com/in/mehmetegesrg) |
+| 🌐 Website | soon...                       |
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetegesrg/mehmetegesrg/output/github-snake-dark.svg" />
