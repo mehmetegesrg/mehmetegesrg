@@ -1,5 +1,5 @@
 <h1 align="center">Ege</h1>
-<h3 align="center">Junior Developer | Python & AI Enthusiast</h3>
+<h3 align="center">Junior Developer Candidate | Python & AI Enthusiast</h3>
 
 <p align="center">
   I am a developer actively working on software and artificial intelligence. I’m focused on building projects with Python and experimenting with hardware-based systems using Raspberry Pi.
