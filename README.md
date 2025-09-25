@@ -27,7 +27,7 @@
 | Platform   | Link                          |
 |------------|-------------------------------|
 | 📧 Email   | mehmetegesarigol@gmail.com         |
-| 💼 LinkedIn| [linkedin.com/in/mehmetegesrg](https://linkedin.com/in/mehmetegesrg) |
+| 💼 LinkedIn| [Tıkla](https://linkedin.com/in/mehmetegesrg) |
 | 🌐 Website | [Tıkla](https://mehmetegesarigol.netlify.app/)                       |
 
 ---
